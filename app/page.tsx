@@ -273,7 +273,7 @@ export default function Portfolio() {
                 </a>
               </Button>
               <Button variant="outline" size="icon" asChild>
-                <a href="mailto:contact@example.com" aria-label="Email">
+                <a href="mailto:riaislam88197@gmail.com" aria-label="Email">
                   <Mail className="h-5 w-5" />
                 </a>
               </Button>
