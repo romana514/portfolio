@@ -257,7 +257,7 @@ export default function Portfolio() {
             <p className="text-center text-lg text-muted-foreground">
               Interested in working together? Feel free to reach out to me directly at{" "}
               <a href="mailto:contact@example.com" className="text-primary underline underline-offset-4">
-                contact@example.com
+                riaislam88197@gmail.com
               </a>{" "}
               or through the form below.
             </p>
